@@ -139,4 +139,6 @@ rect(0.1,(ds3+.3),2,(ds3+1),border="black")
 text(1.05,(ds3+0.8),"AUDPC")
 text(1.05,(ds3+0.5),AUDPCexample)
 
+#https://www.apsnet.org/edcenter/disimpactmngmnt/topc/EcologyAndEpidemiologyInR/DiseaseProgress/Pages/AUDPC.aspx
+
 
